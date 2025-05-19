@@ -7,7 +7,7 @@ html{
     height: 100%;
 }
 body{
-   background-image: url(../assets/fondo.jpg);
+   background-image: url(../assets/fondo.webp);
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
@@ -44,7 +44,7 @@ body{
 .imagen{
     height: 250px;
     width: 213px;
-    background-image: url(../assets/Imagen2.png);
+    background-image: url(../assets/Imagen2.webp);
     position: relative;
     top: 150px;
     margin-left: 134px;
@@ -71,7 +71,7 @@ p{
     font-size: 20px;
 }
 .iconos{
-    margin-top: 20px;
+    margin-top: 10px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -86,6 +86,6 @@ p{
 }
 .contactame{
     color: rgb(105,100,109);
-    margin-top: 20px;
+    margin-top: 15px;
     font-size: 23px;
 }
